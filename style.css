@@ -1,0 +1,26 @@
+/* This is the same as the one in my neocities site */
+
+body {
+  background-color: #e0e0e0;
+  color: black;
+  font-family: Tahoma;
+}
+/* unvisited link */
+a:link {
+  color: #ababab;
+}
+
+/* visited link */
+a:visited {
+  color: #595959;
+}
+
+/* mouse over link */
+a:hover {
+  color: #ebebeb;
+}
+
+/* selected link */
+a:active {
+  color: #353535;
+}
